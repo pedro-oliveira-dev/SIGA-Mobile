@@ -6,4 +6,5 @@ Esta atividade teve como objetivo o planejamento completo da aplicação mobile 
 * Gestão de configuração de software
 * Estabelecimento de métricas de acompanhamento
 * Planejamento de testes (sem implementação)
+
 O projeto simula o desenvolvimento de um sistema SIGA (Sistema Integrado de Gestão Acadêmica), com foco em usabilidade, organização acadêmica e funcionalidades úteis para estudantes.
